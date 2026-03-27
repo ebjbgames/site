@@ -1,4 +1,0 @@
-assets = { 
-    directory = "./", 
-    exclude = ["/.git/"]
-}
